@@ -9,16 +9,16 @@ I'm a Data Engineer having experience in generative AI and image processing. Wor
 
 ### 🛠 Skills
 
-ML & DL:
+- ML & DL:
 Python, Jupyter
 
-Data Visualization:
+- Data Visualization:
 Python, Tableau
 
-DB:
+- DB:
 SQL
 
-Other:
+- Other:
 Docker, Git
 
 
