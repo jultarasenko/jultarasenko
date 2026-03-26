@@ -10,6 +10,8 @@ I'm a Data Engineer having experience in generative AI and image processing. Wor
 
 [QoLAnalizer](https://github.com/jultarasenko/QoLAnalyzer) - a geospatial analysis tool that uses the H3 hexagonal grid system to evaluate quality-of-life factors within city boundaries. Features distance calculations to the nearest POIs extracted via OSMnx and exported results in GeoJSON format.
 
+[Movies Analysis](https://public.tableau.com/app/profile/julia.tarasenko/viz/movies_16983121914100/Dashboard1) - an interactive dashboard in Tableau to analyze movie datasets, enabling dynamic exploration of trends, ratings, genres, and release-year distributions through interactive visualizations and filtering.
+
 [Photo verification in Fotobudka](https://github.com/fotobudka-team/ai-faces-toolkit/tree/main/modules/photo_verification) - a facial image verification pipeline that automatically assesses their quality and suitability for further processing in generative models. The module uses face detection, image area analysis and detection of potential obstacles (e.g. accessories which obscure the face) to filter out images that do not meet specified quality criteria.
 
 ### ✍🏻 Articles
