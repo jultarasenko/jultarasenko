@@ -8,6 +8,8 @@ I'm a Data Engineer having experience in generative AI and image processing. Wor
 
 ### 📂 Projects
 
+[CatchTrain](https://github.com/jultarasenko/CatchTrain) - a multi-user Telegram bot that monitors Ukrzaliznytsia's ticket booking API and notifies users in real time when seats become available on routes, dates, and trains they're tracking. Built with aiogram and asyncio, it runs an independent polling task per subscription, persists user watches in SQLite, and supports 100+ concurrent users through a guided FSM-based setup conversation.
+
 [QoLAnalizer](https://github.com/jultarasenko/QoLAnalyzer) - a geospatial analysis tool that uses the H3 hexagonal grid system to evaluate quality-of-life factors within city boundaries. Features distance calculations to the nearest POIs extracted via OSMnx and exported results in GeoJSON format.
 
 [Movies Analysis](https://public.tableau.com/app/profile/julia.tarasenko/viz/movies_16983121914100/Dashboard1) - an interactive dashboard in Tableau to analyze movie datasets, enabling dynamic exploration of trends, ratings, genres, and release-year distributions through interactive visualizations and filtering.
